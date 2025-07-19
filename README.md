@@ -1,8 +1,8 @@
-# <div align="center">🚀 **Harshhaa Vardhan Reddy**</div>
+# <div align="center">🚀 **Pranay Verma**</div>
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
+[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://pranaydevops.cloud)
 
 <img src="https://pranaydevops.cloud/wp-content/uploads/2025/07/1742884111945.jpeg" alt="aboutme" width="800px">
 
