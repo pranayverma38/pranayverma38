@@ -15,7 +15,7 @@
 <br>
 
 ## 💫 About Me
-
+<br>
 <table>
 <tr>
 <td width="40%">
@@ -48,7 +48,7 @@
 </td>
 </tr>
 </table>
-
+<br>
 <div align="center">
   <img src="https://pranaydevops.cloud/wp-content/uploads/2025/07/Asset-2-1.png" alt="DevOps Banner" width="800px">
 </div>
