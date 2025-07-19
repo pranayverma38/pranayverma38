@@ -174,14 +174,14 @@ DevOps knowledge should be accessible to everyone. We believe in:
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </div>
-<!--
+
 ## 💝 Support My Work
 
 > [!TIP]
