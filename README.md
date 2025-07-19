@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
 ### What I Do
 - 🌩️ **Cloud & DevOps Specialist**
@@ -33,11 +33,11 @@
   - Open-source projects
 
 </td>
-<td width="50%">
+<td width="60%">
 
 ### What i actually do 
 - 🌩️ **Magically fix production at 3 AM**
-  - because obviously, sleep is for people who don’t love broken CI/CD pipelines.
+  - Because sleep is for those who hate 3AM CI/CD fires.
 - 💻 **Translate “It works on my machine” to “It works in prod”**
   - and pretend you understand what that 0.0004% CPU spike means.
 - 📊 **Stare at dashboards**
