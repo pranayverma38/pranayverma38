@@ -39,11 +39,9 @@
 - 🌩️ **Magically fix production at 3 AM**
   - Because sleep is for those who hate 3AM CI/CD fires.
 - 💻 **Translate “It works on my machine” to “It works in prod”**
-  - and pretend you understand what that 0.0004% CPU spike means.
+  - just sprinkle some YAML and hope for the best.
 - 📊 **Stare at dashboards**
-  - Technical blogs
-  - DevOps tutorials
-  - Open-source projects
+  - and pretend you understand what that 0.0004% CPU spike means. 📊🧐💡
 - 🔗 **Be the glue**
   - between developers who break things and operations who get blamed.
 
@@ -52,9 +50,10 @@
 </table>
 
 <div align="center">
-  <img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="DevOps Banner" width="800px">
+  <img src="https://pranaydevops.cloud/wp-content/uploads/2025/07/Asset-2-1.png" alt="DevOps Banner" width="800px">
 </div>
 
+<!-- 
 ## 🌐 DevOps Learning Hub
 
 > [!IMPORTANT]
@@ -148,7 +147,7 @@ DevOps knowledge should be accessible to everyone. We believe in:
 </td>
 </tr>
 </table>
-
+-->
 ## ⚡ Tech Stack
 
 <div align="center">
