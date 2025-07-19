@@ -7,7 +7,7 @@
 <img src="https://pranaydevops.cloud/wp-content/uploads/2025/07/Asset-1-1.png" alt="aboutme" width="800px">
 
 </div>
-
+<br>
 <div align="center">
   <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
 </div>
@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="99%">
+<td width="50%">
 
 ### What I Do
 - 🌩️ **Cloud & DevOps Specialist**
@@ -33,7 +33,21 @@
   - Open-source projects
 
 </td>
+<td width="50%">
 
+### What i actually do 
+- 🌩️ **Magically fix production at 3 AM**
+  - because obviously, sleep is for people who don’t love broken CI/CD pipelines.
+- 💻 **Translate “It works on my machine” to “It works in prod”**
+  - and pretend you understand what that 0.0004% CPU spike means.
+- 📊 **Stare at dashboards**
+  - Technical blogs
+  - DevOps tutorials
+  - Open-source projects
+- 🔗 **Be the glue**
+  - between developers who break things and operations who get blamed.
+
+</td>
 </tr>
 </table>
 
