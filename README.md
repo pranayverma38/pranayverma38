@@ -48,48 +48,46 @@
 </td>
 </tr>
 </table>
-<br>
+
+
+
+
+
+#### Programming Language Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
+
+#### OS Stack
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+
+#### Database Stack
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
+
+#### Dev Stack
+<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
+
+#### DevOps Stack 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
+
+#### Project Management Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+
+
+
+
+
+<!-- 
+
 <div align="center">
   <img src="https://pranaydevops.cloud/wp-content/uploads/2025/07/Asset-2-1.png" alt="DevOps Banner" width="800px">
 </div>
 
-<!-- 
+
 ## 🌐 DevOps Learning Hub
 
 > [!IMPORTANT]
 >
 > Empowering DevOps & Cloud Learners — One Resource at a Time
 
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Learning Resources
-- [💻 Real-Time Projects Hub](https://projects.prodevopsguytech.com) - Hands-on DevOps projects from beginner to advanced
-- [📚 Ultimate Docs Portal](https://docs.prodevopsguytech.com) - 900+ curated DevOps learning materials
-- [📦 Repositories Central](https://repos.prodevopsguytech.com) - Collection of scripts, infrastructure code & prep content
-- [🧭 Jobs Portal](https://jobs.prodevopsguytech.com) - Find your next DevOps career opportunity
-- [📰 DevOps Blog](https://blog.prodevopsguytech.com) - Deep dives into DevOps practices & tutorials
-- [☁️ Cloud Blog](https://cloud.prodevopsguytech.com) - Cloud architecture & implementation guides
-- [🐳 Docker to Kubernetes](https://dockertokubernetes.live) - Master containerization journey
-- [🔬 DevOps Engineering Lab](https://www.devops-engineering.site) - Hands-on CI/CD & automation
-- [🛠️ DevOps Tool Guides](https://www.devopsguides.site) - Setup & installation guides
-- [📑 DevOps Cheatsheet](https://cheatsheet.prodevopsguytech.com) - Comprehensive tools & practices
-
-</td>
-<td width="50%">
-
-### 🎯 Our Mission
-DevOps knowledge should be accessible to everyone. We believe in:
-- 🔓 Breaking down paywalls
-- 🛠️ Learning by building
-- 🤝 Community-driven growth
-- 📈 Continuous improvement
-- 🌟 Practical experience
-
-</td>
-</tr>
-</table>
 
 ## 🤝 Connect With Me
 
@@ -127,27 +125,6 @@ DevOps knowledge should be accessible to everyone. We believe in:
 </tr>
 </table>
 
-## 📝 Latest Blog Posts
-
-<table>
-<tr>
-<td width="50%">
-
-### 📌 Dev.to Articles
-[![✍️ Scripting in DevOps](https://img.shields.io/badge/Scripting_in_DevOps-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/prodevopsguytech/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-noa)
-[![✍️ Linux Filesystem Guide](https://img.shields.io/badge/Linux_Filesystem_Guide-FFA500?style=for-the-badge&logo=linux&logoColor=white)](https://dev.to/prodevopsguytech/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-ona)
-
-</td>
-<td width="50%">
-
-### 📌 Hashnode Blogs
-[![📌 Docker Concepts](https://img.shields.io/badge/Docker_Concepts-FF5733?style=for-the-badge&logo=docker&logoColor=white)](https://blog.prodevopsguytech.com/docker-basic-to-advanced-concepts-2024)
-[![📌 Kubernetes Concepts](https://img.shields.io/badge/Kubernetes_Concepts-8E44AD?style=for-the-badge&logo=kubernetes&logoColor=white)](https://blog.prodevopsguytech.com/kubernetes-advanced-concepts-and-best-practices)
-
-</td>
-</tr>
-</table>
--->
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -174,7 +151,7 @@ DevOps knowledge should be accessible to everyone. We believe in:
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -182,23 +159,4 @@ DevOps knowledge should be accessible to everyone. We believe in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHarshhaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </div>
 
-## 💝 Support My Work
-
-> [!TIP]
->
-> If you find my work valuable, consider supporting me! Your support helps create more DevOps content and projects.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-NotHarshhaa-181717?style=for-the-badge&logo=github)](https://github.com/NotHarshhaa)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-harshhaareddy-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/harshhaareddy)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-harshhaareddy-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/harshhaareddy)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://imgur.com/meVJnmd.png" alt="Footer Banner" width="800px">
-</div>
 -->
